@@ -3,12 +3,15 @@
 
 🏫 IFRS - Instituto Federal do Rio Grande do Sul, Campus Osório
 
+🌱 Currently learning JAVA, Node.js
+
 📚 About Me
+
 I'm a passionate and ambitious System Development student, currently in my 4th semester at iFRS. My love for technology and problem-solving has driven me to pursue a career in software development. I'm constantly learning and experimenting new technologies to expand my knowledge and find the best solutions to the problems at hand. 
 
-🌱 Currently learning JAVA, Node.js;
 
 🔭 Goals
+
 Looking ahead, my primary goal is to become a skilled and versatile software developer. I'm determined to contribute meaningfully to the tech industry and be part of innovative projects that positively impact people's lives. I am also keen on collaborating with like-minded individuals and being a part of a supportive and dynamic development community.
 
 <br>
