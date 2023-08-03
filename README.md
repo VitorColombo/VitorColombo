@@ -3,7 +3,7 @@
 
 🏫 IFRS - Instituto Federal do Rio Grande do Sul, Campus Osório
 
-🌱 Currently learning JAVA, Node.js
+🌱 Currently learning JAVA, Node.js, Oracle
 
 📚 About Me
 
