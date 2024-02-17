@@ -42,7 +42,7 @@ Looking ahead, my primary goal is to become a skilled and versatile software dev
 </details>
 
 <details open>
-<summary><b>🤖 Test tools</b></summary>
+<summary><b>🤖 Testing tools</b></summary>
 <br>
   
 ![RESTASSURED](https://img.shields.io/badge/-RESTASSURED-000000?style=for-the-badge)&nbsp;
