@@ -69,10 +69,10 @@ Looking ahead, my primary goal is to become a skilled and versatile software dev
 
 ## Data
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorColombo&show_icons=true&theme=cobalt&card_width=220" />
+    <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorColombo&show_icons=true&theme=cobalt" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorColombo&layout=compact&langs_count=8&card_width=220&theme=cobalt" />
+    <img height=200 width=332 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorColombo&layout=compact&langs_count=8&card_width=220&theme=cobalt" />
   </a>
 <br>
 
