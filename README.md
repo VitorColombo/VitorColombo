@@ -27,6 +27,8 @@ Looking ahead, my primary goal is to become a skilled and versatile software dev
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![REACT](https://img.shields.io/badge/-REACT-1572B6?style=for-the-badge&logo=react)&nbsp;
+
 </details>
 
 <details open>
@@ -37,6 +39,18 @@ Looking ahead, my primary goal is to become a skilled and versatile software dev
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>🤖 Test tools</b></summary>
+<br>
+  
+![RESTASSURED](https://img.shields.io/badge/-RESTASSURED-000000?style=for-the-badge)&nbsp;
+![SELENIUM](https://img.shields.io/badge/-SELENIUM-FFFFFF?style=for-the-badge&logo=selenium&logoColor=green)&nbsp;
+![CYPRESS](https://img.shields.io/badge/-CYPRESS-1572B6?style=for-the-badge&logo=cypress)&nbsp;
+![POSTMAN](https://img.shields.io/badge/-POSTMAN-F05032?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![CUCUMBER](https://img.shields.io/badge/CUCUMBER-339933.svg?style=for-the-badge&logo=cucumber&logoColor=white)&nbsp;
+
 </details>
 
 <details open>
