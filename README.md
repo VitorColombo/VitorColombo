@@ -67,7 +67,9 @@ Looking ahead, my primary goal is to become a skilled and versatile software dev
 
 </div>
 
-## Data
+<div align = "center">
+<h2 align="center"> 📊 Data </h2>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorColombo&show_icons=true&theme=cobalt" />
   </a>
