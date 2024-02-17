@@ -1,7 +1,9 @@
 ## Hi there, I'm Vitor Colombo 👋
-🎓 Student of 4th Semester, System Development
+🎓 Student of 5th Semester, System Development
 
 🏫 IFRS - Instituto Federal do Rio Grande do Sul, Campus Osório
+
+🏢 DBC Company - Quality Assurance Internship
 
 🌱 Currently learning JAVA, Node.js, Oracle
 
@@ -67,10 +69,10 @@ Looking ahead, my primary goal is to become a skilled and versatile software dev
 
 ## Data
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorColombo&show_icons=true&theme=cobalt" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorColombo&show_icons=true&theme=cobalt&card_width=220" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorColombo&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorColombo&layout=compact&langs_count=8&card_width=220&theme=cobalt" />
   </a>
 <br>
 
