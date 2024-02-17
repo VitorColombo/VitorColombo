@@ -65,11 +65,12 @@ Looking ahead, my primary goal is to become a skilled and versatile software dev
 
 </div>
 
-
+## Data
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorColombo&show_icons=true&theme=cobalt" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorColombo&layout=compact&langs_count=8&card_width=320" />
+  </a>
 <br>
 
-<!--
-**VitorColombo/VitorColombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🌱 I’m currently learning JAVA, Node, 
-- ⚡ Fun fact: ...
--->
