@@ -3,7 +3,7 @@
 
 🏫 IFRS - Instituto Federal do Rio Grande do Sul, Campus Osório
 
-🏢 DBC Company - Quality Assurance Internship
+🏢 Sicredi - Quality Engineer Jr
 
 🌱 Currently learning JAVA, Node.js, Oracle
 
