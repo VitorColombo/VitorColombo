@@ -5,7 +5,7 @@
 
 🏢 Sicredi - Quality Engineer Jr
 
-🌱 Currently learning JAVA, Node.js, Oracle
+🌱 Currently learning JAVA, Flutter
 
 📚 About Me
 
@@ -28,6 +28,7 @@ Looking ahead, my primary goal is to become a skilled and versatile software dev
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![REACT](https://img.shields.io/badge/-REACT-1572B6?style=for-the-badge&logo=react)&nbsp;
+![FLUTTER](https://img.shields.io/badge/-FLUTTER-1572B6?style=for-the-badge&logo=flutter)&nbsp;
 
 </details>
 
