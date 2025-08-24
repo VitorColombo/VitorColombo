@@ -1,9 +1,11 @@
 ## Hi there, I'm Vitor Colombo 👋
-🎓 Student of 5th Semester, System Development
-
+🎓 System Development
 🏫 IFRS - Instituto Federal do Rio Grande do Sul, Campus Osório
 
-🏢 Sicredi - Quality Engineer Jr
+🎓 Geologist
+🏫 UFS - Universidade Federal de Sergipe
+
+🏢 Sicredi - Quality Engineer II
 
 🌱 Currently learning JAVA, Flutter
 
