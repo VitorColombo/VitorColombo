@@ -5,13 +5,13 @@
 🎓 Geologist
 🏫 UFS - Universidade Federal de Sergipe
 
-🏢 Sicredi - Quality Engineer II
+🏢 Sicredi - Software Engineer II
 
 🌱 Currently learning JAVA, Flutter
 
 📚 About Me
 
-I'm a passionate and ambitious System Development student, currently in my 4th semester at iFRS. My love for technology and problem-solving has driven me to pursue a career in software development. I'm constantly learning and experimenting new technologies to expand my knowledge and find the best solutions to the problems at hand. 
+I'm a passionate and ambitious System Development student. My love for technology and problem-solving has driven me to pursue a career in software development. I'm constantly learning and experimenting new technologies to expand my knowledge and find the best solutions to the problems at hand. 
 
 
 🔭 Goals
