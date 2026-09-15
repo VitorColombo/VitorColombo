@@ -83,6 +83,6 @@ Looking ahead, my primary goal is to become a skilled and versatile software dev
 </details>
 
 </div>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VitorColombo&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=VitorColombo&show_icons=true&include_all_commits=true&theme=highcontrast)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VitorColombo&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=VitorColombo&show_icons=true&include_all_commits=true&theme=highcontrast)
 
 <br>
